@@ -217,7 +217,7 @@ header div:hover {
   position: absolute;
 }
 #right #myimage {
-  background-image: url("../assets/romit1.jpg");
+  background-image: url("assets/romit1.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
